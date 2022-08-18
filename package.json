@@ -1,0 +1,18 @@
+{
+  "name": "api-uniapp",
+  "version": "1.0.0",
+  "description": "<!--  This README describes the package. If you publish this package to pub.dev, this README's contents appear on the landing page for your package.",
+  "main": "lib/api.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
